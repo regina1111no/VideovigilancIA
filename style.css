@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+}
+h1{
+    font-size: 35px;
+    color: paleturquoise;
+    font-family: Impact;
+}
+canvas{
+    border: 5px inherit black;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px white;
+}
+#copyright{
+    position: fixed;
+    color: aqua;
+    background-color: darkblue;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+}
